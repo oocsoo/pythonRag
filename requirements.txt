@@ -1,0 +1,11 @@
+sentence_transformers
+chromadb
+openai
+requests
+python-dotenv
+tqdm
+aiohttp
+pypdf
+python-docx
+pandas
+openpyxl

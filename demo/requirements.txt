@@ -1,0 +1,6 @@
+sentence_transformers
+chromadb
+google-genai
+python-dotenv
+openai
+requests
